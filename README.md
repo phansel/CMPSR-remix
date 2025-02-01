@@ -9,7 +9,7 @@ Remix of the [CMPSR - Foldable Shoulder Rest For Violin by Sleighbells64_220416 
 # README (by Sleighbells64)
 
 ## Description
-     The CMPSR is an open source 3D printed folding shoulder for violin. This prints with minimal supports, and the areas which do require supports are covered by the foam pad. This fits a standard full size violin.
+The CMPSR is an open source 3D printed folding shoulder for violin. This prints with minimal supports, and the areas which do require supports are covered by the foam pad. This fits a standard full size violin.
 
 ## Materials
 
@@ -21,26 +21,20 @@ Duct tape or Packing Tape - to put into the slots to grip the violin and prevent
 
 Filament, preferably PETG, print PLA at your own risk, I haven't tried it.
 
- 
-
 ## Background/Trivia (The part you probably don't care about)
 
-     This shoulder rest was initially designed after I lost mine the day before a concert. That last minute scramble turned out to be surprisingly comfortable and durable. Now the design has been improved with the use of foam padding and 4 self tapping m5 screws to be easier to assemble and more comfortable to wear. i have used it for several months and haven't had any issues with breaking or wearing out. I decided to put this out when I saw the Musical Instrument Contest and thought it might be fun.
-
- 
+This shoulder rest was initially designed after I lost mine the day before a concert. That last minute scramble turned out to be surprisingly comfortable and durable. Now the design has been improved with the use of foam padding and 4 self tapping m5 screws to be easier to assemble and more comfortable to wear. i have used it for several months and haven't had any issues with breaking or wearing out. I decided to put this out when I saw the Musical Instrument Contest and thought it might be fun.
 
 ## Printing Instructions  (The part you probably DO care about)
 
-     I would recommend printing this out of PETG to make sure it can flex a little. I would recommend printing this with 0.2mm layer height and 3 perimeters, I also used 20% Gyroid Infill but I don't know how much the infill type effects it. The two end pieces print with no supports, the middle rail section HAS supports, print it with the bottom facing towards your bed
-
- 
+I would recommend printing this out of PETG to make sure it can flex a little. I would recommend printing this with 0.2mm layer height and 3 perimeters, I also used 20% Gyroid Infill but I don't know how much the infill type effects it. The two end pieces print with no supports, the middle rail section HAS supports, print it with the bottom facing towards your bed
 
 ## Assembly Instructions
 
-    Using the numbers on the end caps and board, match them onto their proper sides. 
-    screw in the m5 screws with a screwdriver, they should self-tap the board and end piece, don't overtighten or they will strip out the holes
-      using glue, tape, spray adhesive, or whatever stickiness you can get your hands on, attach the foam or other padding to the bottom of the main beam. 
-    VERY IMPORTANT! put little strips of duct tape or packing tape into the slots of the end caps to keep them from scratching the violin and keep the shoulder rest securely attached.
+Using the numbers on the end caps and board, match them onto their proper sides. 
+- screw in the m5 screws with a screwdriver, they should self-tap the board and end piece, don't overtighten or they will strip out the holes
+- using glue, tape, spray adhesive, or whatever stickiness you can get your hands on, attach the foam or other padding to the bottom of the main beam. 
+- VERY IMPORTANT! put little strips of duct tape or packing tape into the slots of the end caps to keep them from scratching the violin and keep the shoulder rest securely attached.
 
 ## Q/A
 
