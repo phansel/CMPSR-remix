@@ -6,6 +6,12 @@ Remix of the [CMPSR - Foldable Shoulder Rest For Violin by Sleighbells64_220416 
 - Increase length of the center rest by 3% to better fit a different brand of violin.
 - Change screw hole diameter to be compatible with M3 bolts rather than M5 screws.
 
+![DSC00320](https://github.com/user-attachments/assets/70711843-46d8-4c88-a3d9-5f89507fabb8)
+
+![DSC00319](https://github.com/user-attachments/assets/4ea6379a-66f4-4e01-b9ae-03232c2dcb0e)
+
+![DSC00318](https://github.com/user-attachments/assets/5010d350-1521-4539-8924-9038a2a148c8)
+
 # README (by Sleighbells64)
 
 ## Description
