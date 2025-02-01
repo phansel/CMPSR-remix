@@ -42,8 +42,6 @@ Filament, preferably PETG, print PLA at your own risk, I haven't tried it.
       using glue, tape, spray adhesive, or whatever stickiness you can get your hands on, attach the foam or other padding to the bottom of the main beam. 
     VERY IMPORTANT! put little strips of duct tape or packing tape into the slots of the end caps to keep them from scratching the violin and keep the shoulder rest securely attached.
 
- 
-
 ## Q/A
 
 Q: Why shouldn't I just buy a cheap shoulder rest?
@@ -64,3 +62,10 @@ A: ………….Yeah, okay you got me. I came up with the C, P, S, and R, first 
 
 ## DISCLAIMER:
 I am not responsible for any scratches or other damage you may do to your violin, yourself, or others. How would you hurt others with a shoulder rest? I have no idea, but don't do it, and if you do it, don't blame me. Print and use this at your own risk. 
+
+# License
+CC BY-SA 4.0
+[Creative Commons Attribution-ShareAlike 4.0 International
+](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. If others remix, adapt, or build upon the material, they must license the modified material under identical terms. 
